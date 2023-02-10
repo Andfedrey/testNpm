@@ -1,0 +1,23 @@
+{
+  "name": "testnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andfedrey/testNpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andfedrey/testNpm/issues"
+  },
+  "homepage": "https://github.com/Andfedrey/testNpm#readme",
+  "dependencies": {
+    "@andfedrey/ajs-48-task_3": "^1.0.0"
+  }
+}
